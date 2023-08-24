@@ -59,7 +59,7 @@ export class ProductsController {
       name: 'NomeDoProduto a seguir->:wdaw' + product.name,
       type: 'Tipo especifico do produto em especifico0->?=-1@' + product.type,
       price: 'Preço do produto bem formatado1242$={}' + product.price,
-      local: 'O local que vc pode encontrar esse produto é o seguinte [->] [<-]/A' + product.local,
+      local: 'O local que vc pode encontrar esse produto é o seguinte [->] [<-]' + product.local,
       description: 'Descrição do produto que vc selecionouwfilnbuABU' + product.description
     }
   }
